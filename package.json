@@ -28,6 +28,7 @@
     "express": "~4.4.1",
     "pg": "^4.3.0",
     "sphericalmercator": "~1.0.2",
-    "topojson": "1.6.9"
+    "topojson": "1.6.9",
+    "node-promise": "0.5.12"
   }
 }
